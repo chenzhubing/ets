@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="comic"
+  id="myeclipse.1488356883627"
+  context-root="/comic"
+  j2ee-spec="5.0"
+  archive="comic.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
